@@ -16,7 +16,7 @@ Here's my PCB! It was made in KiCad.
 <img width="574" height="473" alt="Screenshot 2026-04-14 at 11 25 00 AM" src="https://github.com/user-attachments/assets/d0e56395-b604-4726-9e72-aee04d34e650" />
 
 ## BOM:
-Here should be [everything](https://docs.google.com/spreadsheets/d/14nMMweMc_XzQDbo61nnmqZUTtTscH9UbB8BGQstIzH4/edit?usp=sharing) you need to make this:
+Here should be [everything]([https://docs.google.com/spreadsheets/d/14nMMweMc_XzQDbo61nnmqZUTtTscH9UbB8BGQstIzH4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1wsxLwNynfaC6R5-2-ovum9rVKD0-UjsQx3AUx7Wjfbc/edit?usp=sharing)) you need to make this:
 - 1x PCBA
 
 
