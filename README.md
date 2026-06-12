@@ -1,5 +1,7 @@
 # ESP32 Devboard
 
+<img width="292" height="263" alt="Screenshot 2026-06-12 at 10 23 23 PM" src="https://github.com/user-attachments/assets/e0669ea5-63b9-42f0-a49b-765252cf30a5" />
+
 This devboard is created to learn about PCB design rules. I plan to use PCBA for this board.
 
 ## Features:
